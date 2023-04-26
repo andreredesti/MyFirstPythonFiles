@@ -1,4 +1,6 @@
-run = "cowsay Configure me!"
+#run = "cowsay Configure me!"
+#run = "bash run_button.sh"
+run = "python main.py"
 
 [nix]
 channel = "stable-22_11"
